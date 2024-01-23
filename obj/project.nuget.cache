@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cdifMLIuEzq+dOy6eRuN5N/OXPGAJFhE3Asf/ZKuqfaKPl4ixza0n9JpR/F0m37aq0FF0J5aer0uL7N9pQ4HKg==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\simple_User_Calculator\\simple_User_Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\C# Projects\simple_User_Calculator\bin\Debug\net7.0\simple_User_Calculator.exe
+D:\C# Projects\simple_User_Calculator\bin\Debug\net7.0\simple_User_Calculator.deps.json
+D:\C# Projects\simple_User_Calculator\bin\Debug\net7.0\simple_User_Calculator.runtimeconfig.json
+D:\C# Projects\simple_User_Calculator\bin\Debug\net7.0\simple_User_Calculator.dll
+D:\C# Projects\simple_User_Calculator\bin\Debug\net7.0\simple_User_Calculator.pdb
+D:\C# Projects\simple_User_Calculator\obj\Debug\net7.0\simple_User_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\simple_User_Calculator\obj\Debug\net7.0\simple_User_Calculator.AssemblyInfoInputs.cache
+D:\C# Projects\simple_User_Calculator\obj\Debug\net7.0\simple_User_Calculator.AssemblyInfo.cs
+D:\C# Projects\simple_User_Calculator\obj\Debug\net7.0\simple_User_Calculator.csproj.CoreCompileInputs.cache
+D:\C# Projects\simple_User_Calculator\obj\Debug\net7.0\simple_User_Calculator.dll
+D:\C# Projects\simple_User_Calculator\obj\Debug\net7.0\refint\simple_User_Calculator.dll
+D:\C# Projects\simple_User_Calculator\obj\Debug\net7.0\simple_User_Calculator.pdb
+D:\C# Projects\simple_User_Calculator\obj\Debug\net7.0\simple_User_Calculator.genruntimeconfig.cache
+D:\C# Projects\simple_User_Calculator\obj\Debug\net7.0\ref\simple_User_Calculator.dll
